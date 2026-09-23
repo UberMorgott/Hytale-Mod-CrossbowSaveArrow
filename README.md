@@ -52,7 +52,7 @@ Both messages should be present. The MixinTale message alone does not show that 
 3. Remove the Hyxin JAR only if no other mod needs it. CrossbowSaveArrow 0.0.9 uses MixinTale instead.
 4. Install the two new JARs in their separate folders using the steps above, then enable CrossbowSaveArrow for your world.
 
-Earlier instructions and comments that put CrossbowSaveArrow in `earlyplugins` apply to 0.0.8 and older. For 0.0.9, `EarlyPlugins` and `Mods` are folders, not ZIP archives. If you followed the old instructions and used an `earlyplugins` archive inside a world save, remove the old CrossbowSaveArrow JAR from that archive too; keep any unrelated plugins.
+Earlier instructions and comments that put CrossbowSaveArrow in `earlyplugins` apply to 0.0.8 and older.
 
 
 ## What changed in 0.0.9
